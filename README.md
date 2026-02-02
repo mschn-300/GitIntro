@@ -1,3 +1,3 @@
 # GitIntro
 Only a test
-Zhats It
+Thats It
